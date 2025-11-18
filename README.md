@@ -27,4 +27,4 @@ You can try submitting a proof on our servers here:
 $ curl -X GET http://147.182.233.80:8080/ -H "Content-Type: application/json" -d '{ "new_bob_balance": "1000000", "proof_hex": "<HEX>" }'
 ```
 
-You will get a congratulation message as well as next steps on how to apply if you succeed. Good luck :)
+
